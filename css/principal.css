@@ -6,10 +6,10 @@ body{
     background:#e6e6e6;
 }    
 header, .main, footer{
-    background:#fff;
-    width:90%;
-    max-width:1000px;
-    margin:20px auto;
+    background: #fff;
+    width: 90%;
+    max-width: 1000px;
+    margin: 20px auto;
 }
 header nav{
     background: #0934a8;
